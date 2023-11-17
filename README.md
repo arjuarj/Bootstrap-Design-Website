@@ -1,3 +1,6 @@
+
+a bootstrap designed website using html,css &bootstrap
+
 imported roboto font from google fonts using @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,400;0,500;1,700&display=swap')
 
 boxicons are used for icons using <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
